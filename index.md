@@ -2,122 +2,43 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+(^_^)欢迎～
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+(～￣▽￣)～这儿圈名景尧，字少微，号前前道人～(￣▽￣～)
 
 
-### Definition lists can be used with HTML syntax.
+## 对戏
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- [白鹿林之友](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/bllzy.png)
+(景云)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+——18/11/10
 
-```
-The final element.
-```
+- [汉子打架](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/hzdj.png)
+(陆前)
+
+——18/11/03
+
+- [少年打架](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/sndj.png)
+(景云)
+
+——18/10/26
+
+## 自戏
+
+- [瓷坯作画](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/cpzh.png)
+
+——19/03/16
+
+
+## 人设
+
+- [景云（九歌）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/rsjyjg.png)
+
+- [陆前（九歌）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/rslqjg.png)
+
+- [景云（云烟阁）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/rsjyyyg.png)
+
+
+
