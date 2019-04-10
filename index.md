@@ -12,7 +12,8 @@ layout: default
 
 ## 对戏
 
-- [重逢（景云）（未结）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/cf.png)
+- [重逢（景云）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/cf.png)
+（未结）
 
 - [白鹿林之友（景云）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/bllzy.png)
 
@@ -32,7 +33,8 @@ layout: default
 
   ——19/03/16
 
-- [朝堂（饱受诟病的命题戏）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/mtxct.png)
+- [朝堂](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/mtxct.png)
+（饱受诟病的命题戏）
 
 - [清明上河图](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/qmsht.png)
 
