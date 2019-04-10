@@ -7,35 +7,44 @@ layout: default
 
 (～￣▽￣)～这儿圈名景尧，字少微，号前前道人～(￣▽￣～)
 
+主混古原，最近对黑帮，校园也颇感兴趣
+
 
 ## 对戏
 
-- [白鹿林之友（景云）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/bllzy.png)
+- [重逢（景云）（未结）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/cf.png)
+
+- [白鹿林之友（景云）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/bllzy.png)
 
   ——18/11/10
 
-- [汉子打架（陆前）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/hzdj.png)
+- [汉子打架（陆前）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/hzdj.png)
 
   ——18/11/03
 
-- [少年打架（景云）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/sndj.png)
+- [少年打架（景云）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/sndj.png)
 
   ——18/10/26
 
 ## 自戏
 
-- [瓷坯作画](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/cpzh.png)
+- [瓷坯作画](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/cpzh.png)
 
   ——19/03/16
 
+- [朝堂（饱受诟病的命题戏）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/mtxct.png)
+
+- [清明上河图](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/qmsht.png)
+
+- [思悼](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/sd.png)
 
 ## 人设
 
-- [景云（九歌）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/rsjyjg.png)
+- [景云（九歌）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rsjyjg.png)
 
-- [陆前（九歌）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/rslqjg.png)
+- [陆前（九歌）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rslqjg.png)
 
-- [景云（云烟阁）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/rsjyyyg.png)
+- [景云（云烟阁）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rsjyyyg.png)
 
 
 
