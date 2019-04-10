@@ -10,15 +10,15 @@ layout: default
 
 ## 对戏
 
-- [白鹿林之友（景云）)](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/bllzy.png)
+- [白鹿林之友（景云）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/bllzy.png)
 
   ——18/11/10
 
-- [汉子打架（陆前）)](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/hzdj.png)
+- [汉子打架（陆前）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/hzdj.png)
 
   ——18/11/03
 
-- [少年打架（景云）)](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/sndj.png)
+- [少年打架（景云）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/sndj.png)
 
   ——18/10/26
 
