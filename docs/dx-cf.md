@@ -6,4 +6,6 @@ layout: default
 
 ![](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/cf.png)
 
-[back](./)
+[back](./my-page.html)
+
+[next](./bllzy.html)
