@@ -2,29 +2,28 @@
 layout: default
 ---
 
-
 ## 对戏
 
-- [重逢（景云）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/cf.png)
+- [重逢（景云）](./dx-cf.html)
 （未结）
 
   ——
 
-- [白鹿林之友（景云）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/bllzy.png)
+- [白鹿林之友（景云）](./dx-bllzy.html)
 
   ——18/11/10
 
-- [汉子打架（陆前）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/hzdj.png)
+- [汉子打架（陆前）](./dx-hzdj.html)
 
   ——18/11/03
 
-- [少年打架（景云）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/sndj.png)
+- [少年打架（景云）](./dx-sndj.html)
 
   ——18/10/26
 
 ## 自戏
 
-- [瓷坯作画](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/cpzh.png)
+- [瓷坯作画](./zx-cpzh.html)
 
   ——19/03/16
 
