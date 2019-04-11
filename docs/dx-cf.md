@@ -8,4 +8,4 @@ layout: default
 
 [back](./my-page.html)
 
-[next](./bllzy.html)
+[next](./dx-bllzy.html)
