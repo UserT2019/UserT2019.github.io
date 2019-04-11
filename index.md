@@ -5,7 +5,7 @@ layout: default
 
 欢迎～
 
-这儿圈名[景尧](./another-page.html)，字[少微](./another-page.html)，号[前前道人](./another-page.html)
+这儿圈名景尧，字[少微](./another-page.html)，号前前道人
 
 主混古原，最近对黑帮，校园也颇感兴趣
 
@@ -13,6 +13,5 @@ layout: default
 
 扣扣：[2839424480](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/qqewm.jpg)
 
-
-  
+[彩蛋](./docs/caidan.html)
  
