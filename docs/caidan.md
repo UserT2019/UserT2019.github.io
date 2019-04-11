@@ -34,8 +34,9 @@
 
 - [C7](./C7.html)
 
+<p style="text-align:left">back<a href="./my-page.html">orderedlist</a></p>
 
-<h1 style="text-align:left">[back](./my-page.html)</h1>
+[back](./my-page.html)
 
 
 
