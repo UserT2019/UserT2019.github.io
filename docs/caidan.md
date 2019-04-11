@@ -1,4 +1,10 @@
 
+---
+
+layout: default2
+
+---
+
 - [A1](./A1.html)
 
 - [A2](./A2.html)
