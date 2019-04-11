@@ -65,4 +65,4 @@ layout: default
   ——
   
 
-[back](././index.html)
+[back](../index.html)
