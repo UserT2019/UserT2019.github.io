@@ -11,7 +11,7 @@ layout: default
 
 [我的演绎墙](./docs/my-page.html)
 
-扣扣：[2839424480](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/qqewm.png)
+扣扣：[2839424480](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/qqewm.jpg)
 
 
   
