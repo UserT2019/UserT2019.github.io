@@ -6,4 +6,4 @@ layout: default
 
 ![](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/cpzh.png)
 
-[back](./)
+[back](./my-pages.html)
