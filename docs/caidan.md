@@ -38,7 +38,6 @@
 
 <p style="text-align:center"><a href="./my-page.html">previous</a>       <a href="./my-page.html">next</a></p>
 
-[back](./my-page.html)
 
 
 
