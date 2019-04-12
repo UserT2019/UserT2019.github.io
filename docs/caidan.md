@@ -4,6 +4,8 @@ layout: default2
 
 ---
 
+<p style="text-align:left"><a href="../index.html">back</a></p>
+
 - [A1](./A1.html)
 
 - [A2](./A2.html)
@@ -38,11 +40,9 @@ layout: default2
 
 - [C7](./C7.html)
 
-<p style="text-align:left"><a href="./my-page.html">back</a></p>
+<p style="text-align:left"><a href="../index.html">back</a></p>
 
-<p style="text-align:center"><a href="./my-page.html">previous</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./my-page.html">next</a></p>
-
-<pre><p style="text-align:center"><a href="./my-page.html">previous</a>     <a href="./my-page.html">next</a></p></pre>
+<p style="text-align:center"><a href="./my-page.html">previous</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./my-page.html">next</a></p>
 
 
 
