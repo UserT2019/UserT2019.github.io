@@ -27,40 +27,40 @@ layout: default3
 
   ——19/03/16
 
-- [朝堂](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/mtxct.png)
+- [朝堂](./zx-ct.html)
 （饱受诟病的命题戏）
 
   ——18/10/17
 
 ## 片段
 
-- [书院作答](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/sdzd.png)
+- [书院作答](./pd.html)
 
   ——
 
-- [清明上河图](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/qmsht.png)
+- [清明上河图](./pd.html)
 
   ——18/10/04
 
-- [思悼](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/sd.png)
+- [思悼](./pd.html)
 
   ——18/10/04
 
 ## 人设
 
-- [景云（九歌）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rsjyjg.png)
+- [景云（九歌）](./rs.html)
 
   ——18/
 
-- [陆前（九歌）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rslqjg.png)
+- [陆前（九歌）](./rs.html)
 
   ——18/
 
-- [景云（云烟阁）](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rsjyyyg.png)
+- [景云（云烟阁）](./rs.html)
 
   ——18/
  
-- [上官景妤](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rssgjy.png)
+- [上官景妤](./rs.html)
 
   ——
   
