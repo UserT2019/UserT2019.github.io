@@ -20,7 +20,7 @@ layout: default3
 
 
 
-<p style="text-align:center"><a href="./zx-mtxct.html">prev</a></p>
+<p style="text-align:center"><a href="./zx-ct.html">prev</a></p>
 
 <p style="text-align:center"><a href="./rs.html">next</a></p>
 
