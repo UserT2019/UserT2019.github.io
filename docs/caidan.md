@@ -42,7 +42,7 @@ layout: default2
 
 <p style="text-align:left"><a href="../index.html">back</a></p>
 
-<p style="text-align:center"><a href="./my-page.html">previous</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./my-page.html">next</a></p>
+<p style="text-align:center"><a href="./my-page.html">prev</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./my-page.html">next</a></p>
 
 
 
