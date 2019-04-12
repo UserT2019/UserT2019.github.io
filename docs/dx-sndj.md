@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: default3
 ---
 
 ### 少年打架（景云）
 
 ![](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/sndj.png)
 
-[back](./my-page.html)
+<p style="text-align:center"><a href="./dx-hzdj.html">prev</a></p>
 
-[next](./zx-cpzh.html)
+<p style="text-align:center"><a href="./zx-cpzh.html">next</a></p>
+
+[back](./my-page.html)
