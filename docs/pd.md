@@ -2,9 +2,6 @@
 layout: default3
 ---
 
----
-layout: default3
----
 
 ### 书院作答
 
