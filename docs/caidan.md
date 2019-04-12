@@ -40,6 +40,8 @@ layout: default2
 
 <p style="text-align:left"><a href="./my-page.html">back</a></p>
 
+<p style="text-align:center"><a href="./my-page.html">previous</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./my-page.html">next</a></p>
+
 <pre><p style="text-align:center"><a href="./my-page.html">previous</a>     <a href="./my-page.html">next</a></p></pre>
 
 
