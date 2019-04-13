@@ -135,7 +135,7 @@ layout: default2
 
 - [currently](https://www.ldoceonline.com/dictionary/currently)
 
-- [curricula](https://www.ldoceonline.com/dictionary/curricula)
+- [curricular](https://www.ldoceonline.com/dictionary/curricular)
 
 - [cute](https://www.ldoceonline.com/dictionary/cute)
 
