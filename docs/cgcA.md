@@ -113,6 +113,6 @@ layout: default2
 
 []()
 
-<p style="text-align:center"><a href="./cgc-B.html">next</a></p>
+<p style="text-align:center"><a href="./cgcB.html">next</a></p>
 
 <p style="text-align:left"><a href="./cgcdalibao.html">back</a></p>
