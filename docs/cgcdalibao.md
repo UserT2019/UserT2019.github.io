@@ -6,6 +6,8 @@ layout: default2
 
 <p style="text-align:left"><a href="../index.html">back</a></p>
 
+（持续更新中...）
+
 - [A](./cgcA.html)
 
 - [B](./cgcB.html)
