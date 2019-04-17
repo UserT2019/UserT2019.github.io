@@ -11,7 +11,7 @@ layout: default
 
 演绎记录请点击👉[我的演绎墙](./docs/my-page.html)
 
-BD记录请点击👉[我的BD墙](./docs/bd.html)
+BD记录请点击👉[我的BD墙](./docs/bdindex.html)
 
 扣扣：[2839424480](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/qqewm.jpg)
 
