@@ -26,12 +26,17 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她的眼神转移到橱柜上，上面整齐地摆放着手铐，脚链和其他工具。以及可以让她放松，愉悦的物件。她艰难地咽了口水。长时间地站立，尽管她努力地保持着平衡，脚踝还是在轻微地颤抖，手臂变得有点胀痛。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;眼睛扫过对面的墙壁，在距离两米的地方各有一根光滑木桩，墙上各自固定着两个不同高度的光滑金属圆环。而当娱乐的时候，他更喜欢简单直接的方式。那面带有金属边框的镜子，正是起着这样的作用——他可以看到她在鞭子的抽动下扭动的臀部，甚至可以调整她的臀部到他可以满意看到的角度。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;眼睛扫过对面的墙壁，在距离两米的地方各有一根光滑木桩，墙上各自固定着两个不同高度的光滑金属圆环。而当娱乐的时候，他更喜欢简单直接的方式。那面带有金属边框的镜子，正是起着这样的作用——他可以看到她在鞭子的抽动下扭动的臀部，抑或调整她的臀部到使他满意的角度。</P>
 
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有时候，他会十分靠近她的肌肤，近到感受到彼此身上的热气。接着，他会轻吻她的身体，从她身体的某个部位开始，就像一头猛兽，向下一路探索，直到那个秘密的小森林。不停地挑逗，直至她到达兴奋的最高点，她几乎可以感受到他湿润的舌头。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她的肩膀开始颤抖，手握着的地方变得越来越湿润，越来越热，她几乎快要抓不住了。他知道他需要从她手上拿过来，否则，杯子将从她手上滑落。但他忍不住想到：如果杯子从她手中滑落……</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最后，他站了起来，放下了手中的螺丝刀。他的嘴角向上微微勾起，不确定他是否在笑。是因为她不论从身体上，还是精神上都看起来并不舒服吗？她知道他可以透过她看到隐藏在下面的状况，她粉嫩的肌肤，逐渐扩散到她的脸上，她的脖子上。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“我应该把它拿过来，不是吗？”，“它看起来似乎快掉了。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“我会十分小心的。”</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“我已经十分小心了。”</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“洒出来过吗？”</P>
 
@@ -41,7 +46,33 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“把杯柄转过来，拿给我。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“好的，先生。”咖啡发出浓郁的香味，杯子的重力，让她不得不紧紧握住杯壁，肌肤和滚烫的杯壁完美贴合。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;杯子的光滑以及自身的重力，让她不得不紧紧握住杯壁，手掌上的皮肤和滚烫的杯壁完美贴合。握着杯壁，她伸出手，头向下低着，眼睛看着下方，将杯柄递给他。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“先生，您的咖啡。”</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;他轻轻地喝了一口，浓郁的香味扑鼻而来，他不可置否地发出了满意的声音。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;他回到原来的地方，继续修理那个松动的凳腿。“好了。”，他拍了下那条长凳，经典的锯马设计，崭新的，橡木色。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“我认为我们可以试试，同意吗？”</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她的嘴唇微微动了动，就像她在做决策，但这个决定不是她的。在他提出这个建议的时候，答案已经决定了。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“是的，先生。”</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;他来到她的身边，把她带到那条长凳旁边。长凳有着恰到好处的高度，中间是一条由软黑皮革带覆盖着的横木，由它下方的倒“V”型腿支撑着。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她趴在了上边，努力让自己放松，她知道她身体下方的小森林刚好被固定在了圆木的边缘。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;他的手覆盖在她的背上，轻柔着推着。她逐渐放松，脑袋渐渐低了下来。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“pet，腿分开些。”</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她将脚上的高跟鞋侧拖着，身后的缝逐渐打开，暴露在他的面前。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她深呼吸了两次，从鼻子吸气，然后从嘴里吐出。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她从眼角可以看到他正在挑选着墙上的工具。那十三个她之前数过的：两个板子——皮革和木制；一条带有两个分叉的长柄；一条皮带；三支手杖——英式，丙烯酸和厚藤；两条鞭子——重度和轻度——单尾鞭，和最后一件——长木柄浴缸刷。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
@@ -50,21 +81,6 @@ layout: default3
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
-
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
-
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
-
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
-
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
-
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
-
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
-
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
-
 
 <p style="text-align:left"><a href="../index.html">back</a></p>
 
