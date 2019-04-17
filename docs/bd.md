@@ -30,7 +30,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“不，一滴都没有。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“很好。”，“我们不希望有任何意外发生，不是吗？”</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“很好。”，“我们不希望有任何意外发生。”</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“把杯柄转过来，拿给我。”</P>
 
