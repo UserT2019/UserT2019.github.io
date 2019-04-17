@@ -10,6 +10,6 @@ layout: default3
 
 #### [长凳之旅](./bd.md)
 <p style="text-align:right">于19年4月18日</p>
-<p style="text-align:right">译自<a href="http://jayepeaches.com/short-stories/the-spanking-bench/">The Spanking Bench</a></p>
+<p style="text-align:right">译自 <a href="http://jayepeaches.com/short-stories/the-spanking-bench/">The Spanking Bench</a></p>
 
 <p style="text-align:left"><a href="../index.html">back</a></p>
