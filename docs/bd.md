@@ -70,7 +70,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她将脚上的高跟鞋侧拖着，身后的缝逐渐打开，暴露在他的面前。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她深呼吸了两次，从鼻子吸气，然后从嘴里吐出。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她深呼吸了两次，从鼻子吸气，然后缓慢地从嘴里吐出。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她从眼角可以看到他正在挑选着墙上的工具。那十三个她之前数过的：两个板子——皮革和木制；一条带有两个分叉的长柄；一条皮带；三支手杖——英式，丙烯酸和厚藤；两条鞭子——重度和轻度——单尾鞭，和最后一件——长木柄浴缸刷。</P>
 
