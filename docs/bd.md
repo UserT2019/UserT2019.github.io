@@ -4,7 +4,7 @@ layout: default3
 
 ---
 
-<p style="text-align:left"><a href="../index.html">back</a></p>
+<p style="text-align:left"><a href="./bdindex.html">back</a></p>
 
 （持续更新中...）
 
@@ -82,7 +82,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
-<p style="text-align:left"><a href="../index.html">back</a></p>
+<p style="text-align:left"><a href="./bdindex.html">back</a></p>
 
 
 
