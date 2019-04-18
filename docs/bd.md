@@ -6,7 +6,6 @@ layout: default3
 
 <p style="text-align:left"><a href="./bdindex.html">back</a></p>
 
-（持续更新中...）
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“蹬蹬蹬”，木制的楼梯发出一声声短促而沉闷的撞击声。她扶着栏杆，踩着三英寸高的高跟鞋，努力保持着稳当的步伐，努力让自己保持镇定。</p>
 
