@@ -6,6 +6,7 @@ layout: default3
 
 <p style="text-align:left"><a href="./bdindex.html">back</a></p>
 
+<font size="1">
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“蹬蹬蹬”，木制的楼梯发出一声声短促而沉闷的撞击声。她扶着栏杆，踩着三英寸高的高跟鞋，努力保持着稳当的步伐，努力让自己保持镇定。</p>
 
@@ -73,13 +74,18 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她从眼角可以看到他正在挑选着墙上的工具。那十三个她之前数过的：两个板子——皮革和木制；一条带有两个分叉的长柄；一条皮带；三支手杖——英式，丙烯酸和厚藤；两条鞭子——重度和轻度——单尾鞭，和最后一件——长木柄浴缸刷。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+
+</font><br />
 
 <p style="text-align:left"><a href="./bdindex.html">back</a></p>
 
