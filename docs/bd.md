@@ -6,11 +6,11 @@ layout: default3
 
 <p style="text-align:left"><a href="./bdindex.html">back</a></p>
 
-<font size="2">
+<font size="3">
  
- 字体
+ 字体3
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“蹬蹬蹬”，木制的楼梯发出一声声短促而沉闷的撞击声。她扶着栏杆，踩着三英寸高的高跟鞋，努力保持着稳当的步伐，努力让自己保持镇定。</p>
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“蹬蹬蹬”，木制的楼梯发出一声声短促而沉闷的撞击声。她扶着栏杆，踩着三英寸高的高跟鞋，努力保持着稳当的步伐，努力让自己保持镇定。</font></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下楼梯让她神经紧张，短短二十级不到的阶梯，在她眼里却像是一百级的阶梯。深黑色的墙壁，不带任何一丝的挂饰，透着令人窒息的血红色阴影，仿佛预示着什么糟糕的事情即将发生。她继续往下小心翼翼地走着，另一边努力让自己“怦怦”作响的心率降下来。</p>
 
