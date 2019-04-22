@@ -72,16 +72,25 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她深呼吸了两次，从鼻子吸气，然后缓慢地从嘴里吐出。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她从眼角可以看到他正在挑选着墙上的工具。那十三个她之前数过的：两个板子——皮革和木制；一条带有两个分叉的长柄；一条皮带；三支手杖——英式，丙烯酸和厚藤；两条鞭子——重度和轻度——单尾鞭，和最后一件——长木柄浴缸刷。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她从眼角可以看到他正在挑选着墙上的工具。那十三个她之前数过的：两个板子——皮革和木制；一条带有两个分叉的长柄；一条皮带；三支手杖——英式，亚克力和厚藤；两条鞭子——重度和轻度——单尾鞭，和最后一件——长木柄浴缸刷。</P>
 
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;希望，希望不是手杖，她小声地重复了一遍又一遍。选择的自由被禁止了：在之前她有过一段自主选择的权利。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“这个。”他说着拿起了皮制板子。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她松了口气，努力让她的脚不再颤抖。他缓步轻松地走了过来，站在她的身后，解开了袖口的纽扣。他的手，可以非常温柔，也可以非常有力。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;逐渐增大的声音，逐渐加大的速度。带着偶尔的嗯哼声，她发出了微小的哭腔。臀部火辣辣的感觉，把她整个人都淹没了。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;她疼得剁了下脚。她认为这只是一个小事故。</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;他停下来了。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
