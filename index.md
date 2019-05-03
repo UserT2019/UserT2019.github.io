@@ -13,6 +13,8 @@ layout: default
 
 BD记录请点击👉[我的BD墙](./docs/bdindex.html)
 
+SJ记录请点击👉[我的SJ墙](./docs/docs-sjindex.html)
+
 扣扣：[2839424480](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/qqewm.jpg)
 
 [学习彩蛋](./docs/caidan.html)
