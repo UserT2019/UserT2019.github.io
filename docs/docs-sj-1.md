@@ -22,9 +22,9 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有些震惊，你居然在这里喝到断片了么。想了一会，醒酒汤，这附近应该没有卖吧。搜了一下，似乎蜂蜜水也可以解酒，绕着天河城逛了一圈只发现星巴克卖的饮料有西柚的，有用吗？想着便发了张图片给对方。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ……</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;……</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 看着微信那头没了回复，有点着急，而且看起来对方心情好像不怎么样。回去吗？可如果回去了，我的小泰迪还没给啊，真的要回去吗？于是发了条消息。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着微信那头没了回复，有点着急，而且看起来对方心情好像不怎么样。回去吗？可如果回去了，我的小泰迪还没给啊，真的要回去吗？于是发了条消息。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“我在天河城，你忍心赶我回去吗？”</P>
 
@@ -32,7 +32,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“你这样让我感觉很不好。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为什么还要来呢，想把礼物给你？想带你去玩？可是你为什么喝了那么多酒…回什么好呢，打了几个字发了过去。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为什么还要来呢，想把礼物给你？想带你去玩？可是你为什么喝了那么多酒…回什么好呢，打了几个字发了过去。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“找你啊。”</P>
 
@@ -42,9 +42,9 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“等我二十分钟。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “好。”</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“好。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 松了口气，好歹终于可以见个面了。十几分钟过后，站起身看到远处熟悉的身影，带着小泰迪走了过去。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;松了口气，好歹终于可以见个面了。十几分钟过后，站起身看到远处熟悉的身影，带着小泰迪走了过去。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“跟我来。”</P>
 
@@ -56,9 +56,9 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“好。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 洗完澡，擦干净身子，换了身衣服便出来了。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;洗完澡，擦干净身子，换了身衣服便出来了。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 看着对方就坐在写字桌那边看向这里，有点紧张，但还是走了过去。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着对方就坐在写字桌那边看向这里，有点紧张，但还是走了过去。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“洗好了。”</P>
 
@@ -78,9 +78,9 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“站好，别动。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;听到利落，略带着怒气的语气，本来放松下来的身子，听到这句，吓得立马站好。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;听到略带着怒气的语气，本来放松下来的身子，听到这句，吓得立马站好。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 看着对方调暗了灯光，放了首轻音乐，蛮贴心的嘛。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着对方调暗了灯光，放了首轻音乐，蛮贴心的嘛。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“跪趴，会吗？”</P>
 
@@ -90,7 +90,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“腿分开。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 好难，我之前翻译了点国外的小说都没感觉这么难过。把腿分开了一点。被鞋拔敲了小腿后，又分开了些。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;好难，之前翻译的那点国外小说都没感觉这么难过。把腿分开了一点。被鞋拔敲了小腿后，又分开了些。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“啪。”</P>
 
@@ -110,7 +110,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“啪，啪，啪，啪…”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大概过了十几下吧，妈耶，真的好痛，罪恶的小手伸到屁股上。然后手上就被抽了十来下，发现打手心好像比屁股好受点，竟然忍不住让手心替屁股多挨点。直到受不了，才将手抽回身下。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大概过了十几下吧，妈耶，真的好痛，罪恶的小手伸到屁股上。然后手上就被抽了十来下，发现打手心好像比屁股好受点，竟然忍不住想让手心替屁股多挨点。直到受不了，才将手抽回身下。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“五十下，报数。”</P>
 
@@ -118,19 +118,19 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“一，啪。二，啪。三，啪…”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 揪着后脑勺的头发，忍着挨了几十下，疼得忍不住又开始挪了。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;揪着后脑勺的头发，忍着挨了几十下，疼得忍不住又开始挪了。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“别扭。”</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“好。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 快速调整好了自己的姿势。五十下，说长不长，说短并不短，期间也会忍不住偷偷挡屁股上，被拍了回去然后继续挨。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;快速调整好了自己的姿势。五十下，说长不长，说短并不短，期间也会忍不住偷偷挡屁股上，被拍了回去然后继续挨。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“休息下，然后继续。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在挨打的时候，觉得每一下都异常艰难，挨打完却有自己还能再来五十下的错觉。五十下后在听到继续却也会有点抗拒。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在挨打的时候，觉得每一下都异常艰难，挨打完却有种自己还能再来五十下的错觉。五十下后在听到继续却也会有点抗拒。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 看着对方去了浴室。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着对方去了浴室。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“你柔韧性好吗？”</P>
 
@@ -156,17 +156,17 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“啪。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 小声啜泣吐出了，“一，我错了。”</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小声啜泣吐出了，“一，我错了。”</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“啪。”</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“二，我错了。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ……</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;……</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“三十，我错了。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 就这样挨完了三十下，因为是自己报的数，所以可以等上一下疼完再报下一下，所以，马马虎虎地挨完了发现其实还好。但是却哭得稀里哗啦。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就这样挨完了三十下，因为是自己报的数，所以可以等上一下疼完再报下一下，所以，马马虎虎地挨完了发现其实还好。但是却哭得稀里哗啦。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“错了吗。”</P>
 
@@ -180,7 +180,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“啪啪啪。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 屁股又挨上了几下。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;屁股又挨上了几下。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“哇”，忍不住又委屈了，眼泪又忍不住了。一边啜泣，一边跟对方要了几张纸巾擦眼泪。</P>
 
@@ -196,7 +196,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;说完发现对方好像并不满意这个答案。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 跟着对方去了床旁边的沙发上，抱着对方扔过来的抱枕，趴上面又挨了十下。然后因为拿手挡了，又重新来了一遍。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跟着对方去了床旁边的沙发上，抱着对方扔过来的抱枕，趴上面又挨了十下。然后因为拿手挡了，又重新来了一遍。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又挨了二十下。</P>
 
@@ -204,15 +204,15 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“嗯，我知道那个姿势。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 后来才知道我想的抱腿，是站着的，而此抱腿非彼抱腿。早知道这个姿势这么羞耻，我百分之两百是不会答应的。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后来才知道我想的抱腿，是站着的，而此抱腿非彼抱腿。早知道这个姿势这么羞耻，我百分之两百是不会答应的。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“躺上去？”</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“躺？”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 内心错乱了会，躺？！茫然地看着对方，才发觉是自己之前理解错了姿势。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;内心错乱了会，躺？！茫然地看着对方，才发觉是自己之前理解错了姿势。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 就照着对方说的，躺着沙发上，摆好了姿势，挨了大概几下，听到对方嫌弃地问了。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就照着对方说的，躺着沙发上，摆好了姿势，挨了大概几下，听到对方嫌弃地问了。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“你会有生理反应吗？”</P>
 
@@ -242,11 +242,6 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
-
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
-
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
 
 </font><br />
