@@ -78,7 +78,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“站好，别动。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;听到略带着怒气的语气，本来放松下来的身子，听到这句，吓得立马站好。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;听到略带着怒气的语气，本来放松下来的身子，听到这句，吓得立马站好了。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着对方调暗了灯光，放了首轻音乐，蛮贴心的嘛。</P>
 
@@ -100,7 +100,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;完蛋，感觉要不行了，直接趴在了床上，弱弱地看向后边的人。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“我从来都没有看过像你这样的被。”</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“我从来都没有看过像你这样没有规矩的被。”</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“主是不会喜欢这样的被的。”</P>
 
@@ -116,7 +116,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“好。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“一，啪。二，啪。三，啪…”</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“啪，一。啪，二。啪，三…”</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;揪着后脑勺的头发，忍着挨了几十下，疼得忍不住又开始挪了。</P>
 
@@ -212,7 +212,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;内心错乱了会，躺？！茫然地看着对方，才发觉是自己之前理解错了姿势。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就照着对方说的，躺着沙发上，摆好了姿势，挨了大概几下，听到对方嫌弃地问了。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就照着对方说的，躺在沙发上，摆好了姿势，挨了大概几下，听到对方嫌弃地问了。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“你会有生理反应吗？”</P>
 
