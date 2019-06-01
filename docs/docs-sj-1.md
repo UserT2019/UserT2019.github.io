@@ -8,6 +8,8 @@ layout: default3
 
 <font size="3">
 
+以下用的化名
+
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;耳边来来去去中英文的对话。在酒店前台心不在焉玩着手机上唯一的游戏——钢琴块。</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;嚯，终于醒了么，看着微信那头发来的消息。</p>
@@ -20,11 +22,11 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“…你是喝了多少…”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有些震惊，你居然在这里喝到断片了么。想了一会，醒酒汤，这附近应该没有卖吧。搜了一下，似乎蜂蜜水也可以解酒，绕着天河城逛了一圈只发现星巴克卖的饮料有西柚的，有用吗？想着便发了张图片给对方。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有些震惊，你居然在这里喝到断片了么。想了一会，醒酒汤，这附近应该没有卖吧。搜了一下，似乎蜂蜜水也可以解酒，绕着天河城逛了一圈只发现星巴克卖的饮料有西柚的，有用吗？想着便发了张图片给火锅。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;……</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着微信那头没了回复，有点着急，而且看起来对方心情好像不怎么样。回去吗？可如果回去了，我的小泰迪还没给啊，真的要回去吗？于是发了条消息。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着微信那头没了回复，有点着急，而且看起来火锅心情好像不怎么样。回去吗？可如果回去了，我的小泰迪还没给啊，真的要回去吗？于是发了条消息。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“我在天河城，你忍心赶我回去吗？”</P>
 
@@ -58,7 +60,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;洗完澡，擦干净身子，换了身衣服便出来了。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着对方就坐在写字桌那边看向这里，有点紧张，但还是走了过去。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着火锅就坐在写字桌那边看向这里，有点紧张，但还是走了过去。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“洗好了。”</P>
 
@@ -68,25 +70,25 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“嗯？”，还没反应过来，就被压在靠浴室的墙壁上。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下颌被对方挑起，下意识地去躲开。结果还是没有躲开。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下颌被火锅挑起，下意识地去躲开。结果还是没有躲开。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“你说，你为什么要来找我呢？”</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“不是说了，找你玩么。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;周一早上去了音乐厅，想着不会迷路了，当时的自己绝对想不到周三晚上会是自己肿着屁股去看。那天上午绕着时尚广场走了圈，欣慰自己终于不会在这里面迷路了，可以带人玩了，结果却玩了一下午钢琴块。看着近在咫尺的人，许是昨晚的酒意，带着挑逗的语气，这算壁咚吗？那会我真的好想把你压在床上。身边的人走开去拿了放在床上的笔记本。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;周一早上去了音乐厅，想着不会迷路了，当时的自己绝对想不到周三晚上会是自己肿着屁股去看。那天上午绕着时尚广场走了圈，欣慰自己终于不会在这里面迷路了，可以带人玩了，结果却玩了一下午钢琴块。看着近在咫尺的人，许是昨晚的酒意，带着挑逗的语气，这算壁咚吗？身边的人走开去拿了放在床上的笔记本。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“站好，别动。”</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;听到略带着怒气的语气，本来放松下来的身子，听到这句，吓得立马站好了。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着对方调暗了灯光，放了首轻音乐，蛮贴心的嘛。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着火锅调暗了灯光，放了首轻音乐，蛮贴心的嘛。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“跪趴，会吗？”</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“会。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;挪着过去，犹豫要不要脱了裤子，结果直接就趴到枕头上。在对方的提醒下，尽管并不是第一次实践，却也仍然会害羞。脱了裤子，跪趴到放在床尾的皮质沙发上。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;挪着过去，犹豫要不要脱了裤子，结果直接就趴到枕头上。在火锅的提醒下，尽管并不是第一次实践，却也仍然会害羞。脱了裤子，跪趴到放在床尾的皮质沙发上。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“腿分开。”</P>
 
@@ -104,7 +106,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“主是不会喜欢这样的被的。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;听着对方无奈的话语，有点失落，于是忍着疼，把自己的姿势重新给撑好了。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;听着火锅无奈的话语，有点失落，于是忍着疼，把自己的姿势重新给撑好了。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“好了好了。”</P>
 
@@ -130,7 +132,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在挨打的时候，觉得每一下都异常艰难，挨打完却有种自己还能再来五十下的错觉。五十下后在听到继续却也会有点抗拒。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着对方去了浴室。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着火锅去了浴室。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“你柔韧性好吗？”</P>
 
@@ -140,7 +142,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“过来。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跟着对方去了浴室。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跟着火锅去了浴室。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“扶着洗脸台，腰塌下去，屁股抬高。头抬起来看着镜子。”</P>
 
@@ -150,7 +152,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“抬头。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;听着对方的话，置若罔闻，一边啜泣一边不搭理对方。许是放弃了。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;听着火锅的话，置若罔闻，一边啜泣一边不搭理火锅。许是放弃了。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“不抬头是吧，行。报数，每一下报完都说一句我错了。”</P>
 
@@ -170,7 +172,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“错了吗。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;边哭边听着对方好像在问话，哪错了？虽然说了三十句我错了，可我好像都不知道自己错哪了…</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;边哭边听着火锅好像在问话，哪错了？虽然说了三十句我错了，可我好像都不知道自己错哪了…</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“说话。”</P>
 
@@ -182,11 +184,11 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;屁股又挨上了几下。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“哇”，忍不住又委屈了，眼泪又忍不住了。一边啜泣，一边跟对方要了几张纸巾擦眼泪。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“哇”，忍不住又委屈了，眼泪又忍不住了。一边啜泣，一边跟火锅要了几张纸巾擦眼泪。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;擦了擦眼泪，浴室这边就告一段落了。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跟着对方到房间里面。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跟着火锅到房间里面。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“知道为什么那边沙发上面垫着浴巾吗？”</P>
 
@@ -194,9 +196,9 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“这答案不是很显然么？”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;说完发现对方好像并不满意这个答案。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;说完发现火锅好像并不满意这个答案。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跟着对方去了床旁边的沙发上，抱着对方扔过来的抱枕，趴上面又挨了十下。然后因为拿手挡了，又重新来了一遍。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;跟着火锅去了床旁边的沙发上，抱着火锅扔过来的抱枕，趴上面又挨了十下。然后因为拿手挡了，又重新来了一遍。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又挨了二十下。</P>
 
@@ -210,9 +212,9 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“躺？”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;内心错乱了会，躺？！茫然地看着对方，才发觉是自己之前理解错了姿势。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;内心错乱了会，躺？！茫然地看着火锅，才发觉是自己之前理解错了姿势。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就照着对方说的，躺在沙发上，摆好了姿势，挨了大概几下，听到对方嫌弃地问了。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就照着火锅说的，躺在沙发上，摆好了姿势，挨了大概几下，听到火锅嫌弃地问了。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“你会有生理反应吗？”</P>
 
@@ -222,7 +224,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“起来吧，裤子穿上。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;于是，穿上了裤子结束了这次意料之外的实践吧。后来忍不住又趴对方被子上，手背上抹了几滴眼泪，用纸巾擦了擦后就上浴室换了过来的衣服。出来的时候，看对方又坐在写字桌那边看着我，有点迷茫，有点失落。迷茫我到底是为的什么来，失落自己似乎又搞砸了。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;于是，穿上了裤子结束了这次意料之外的实践吧。后来忍不住又趴火锅被子上，手背上落下了几滴眼泪，用纸巾擦了擦后就上浴室换了过来的衣服。出来的时候，看火锅又坐在写字桌那边看着我，有点迷茫，有点失落。迷茫我到底是为的什么来，失落自己似乎又搞砸了。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“我送你。”</P>
 
@@ -238,7 +240,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“那……”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;还没有听清，就到了门口。推了门，没忍住，又回来抱了对方一下，哽咽着只想早点离开，没有说出口的，你很好，一路平安。推了门就离开了酒店。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;还没有听清，就到了门口。推了门，没忍住，又回来抱了火锅一下，哽咽着只想早点离开，没有说出口的，你很好，一路平安。推了门就离开了酒店。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
