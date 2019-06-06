@@ -22,10 +22,6 @@ layout: default3
 
 <P>R:<br/>Otherwise you'll get extra punishment.<br/>And you hate punishment, don't you?</P>
 
-<P>.</P>
-
-<P>&nbsp;</P>
-
 <P>R:<br/>Ready to go?<br/>What do you think of I'm waiting for, slave?</P>
 
 <P>W:<br/>Let me have the first stroke, please.</P>
