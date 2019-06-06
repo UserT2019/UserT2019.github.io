@@ -8,7 +8,8 @@ layout: default3
 
 <font size="3">
 
-<P>R: Red. W: Wheat</P>
+<P>R: Rose.</P>
+<P>W: Wheat.</P>
 
 <p>.</p>
 
@@ -16,61 +17,30 @@ layout: default3
 
 <P>W:<br/>Yes, mistress.</P>
 
+<P>R:<br/>Say thank you after each stroke and ask for the next one.<br/>Thank for it submissively.</P>
 
+<P>W:<br/>Yes, ma'am.</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P>R:<br/>Otherwise you'll get extra punishment.<br/>And you hate punishment, don't you?</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P>.</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P></P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P></P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P></P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P></P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P></P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P></P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P></P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P></P>
 
-
-
-
-
-
-R: You're going to get 10 strokes on your calves.
-   Count the strokes out loud after each strokes.
-   Do you understand?
-
-
-W: Yes, mistress.
-
-
-R: Say thank you after each stroke and ask for the next one.
-   Thank for it submissively.
-
-
-W: Yes, ma'am.
-
-
-R: Otherwise you'll get extra punishment.
-   And you hate punishment, don't you?
-
-
-.
-
-
-
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
-
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
-
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
 </font>
 
