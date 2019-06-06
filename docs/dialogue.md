@@ -8,20 +8,15 @@ layout: default3
 
 <font size="3">
 
+<P>R: Red. W: Wheat</P>
+
 <p>.</p>
 
-R:
+<p>R:<br/>You're going to get 10 strokes on your calves.<br/>Count the strokes out loud after each strokes.<br/>Do you understand?</p>
 
-You're going to get 10 strokes on your calves.</br>
-Count the strokes out loud after each strokes./br
-Do you understand?
+<P>W:<br/>Yes, mistress.</P>
 
 
-<p>R: You're going to get 10 strokes on your calves.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Count the strokes out loud after each strokes.</br></p>
-
-<P>&nbsp;&nbsp;&nbsp;Count the strokes out loud after each strokes.</P>
-
-<P>&nbsp;&nbsp;&nbsp;Do you understand?</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
