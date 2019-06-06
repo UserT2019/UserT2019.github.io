@@ -12,4 +12,8 @@ layout: default3
 <p style="text-align:right">于19年4月18日</p>
 <p style="text-align:right">译自 <a href="http://jayepeaches.com/short-stories/the-spanking-bench/">The Spanking Bench</a></p>
 
+### [有意思的对话](./dialogue.md)
+<p style="text-align:right">于19年6月6日</p>
+
+
 <p style="text-align:left"><a href="../index.html">back</a></p>
