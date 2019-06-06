@@ -10,6 +10,12 @@ layout: default3
 
 <p>.</p>
 
+R: 
+You're going to get 10 strokes on your calves.
+Count the strokes out loud after each strokes.
+Do you understand?
+
+
 <p>R: You're going to get 10 strokes on your calves.</br>&nbsp;&nbsp;&nbsp;&nbsp;Count the strokes out loud after each strokes.</p>
 
 <P>&nbsp;&nbsp;&nbsp;Count the strokes out loud after each strokes.</P>
