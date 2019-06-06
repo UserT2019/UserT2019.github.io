@@ -8,8 +8,7 @@ layout: default3
 
 <font size="3">
 
-<P>R: Rose.</P>
-<P>W: Wheat.</P>
+<P>R: Rose.<br/>W: Wheat.</P>
 
 <p>.</p>
 
@@ -25,22 +24,29 @@ layout: default3
 
 <P>.</P>
 
-<P></P>
+<P>&nbsp;</P>
 
-<P></P>
+<P>R:<br/>Ready to go?<br/>What do you think of I'm waiting for, slave?</P>
 
-<P></P>
+<P>W:<br/>Let me have the first stroke, please.</P>
 
-<P></P>
+<P>R:<br/>Did you hear anything?</P>
 
-<P></P>
+<P>B:<br/>No, like a fly buzz.</P>
 
-<P></P>
+<P>W:<br/>Let me have the first stroke!</P>
 
-<P></P>
+<P>"PE!"</P>
 
-<P></P>
+<P>W:<br/>Thank you. Let me have the next one.</P>
 
+<P>R:<br/>How many was it?</P>
+
+<P>B:<br/>Two.</P>
+
+<P>.</P>
+
+<P>&nbsp;</P>
 
 </font>
 
