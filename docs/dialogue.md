@@ -10,13 +10,14 @@ layout: default3
 
 <p>.</p>
 
-R: 
-You're going to get 10 strokes on your calves.
-Count the strokes out loud after each strokes.
+R:
+
+You're going to get 10 strokes on your calves.</br>
+Count the strokes out loud after each strokes./br
 Do you understand?
 
 
-<p>R: You're going to get 10 strokes on your calves.</br>&nbsp;&nbsp;&nbsp;&nbsp;Count the strokes out loud after each strokes.</p>
+<p>R: You're going to get 10 strokes on your calves.<br/>&nbsp;&nbsp;&nbsp;&nbsp;Count the strokes out loud after each strokes.</br></p>
 
 <P>&nbsp;&nbsp;&nbsp;Count the strokes out loud after each strokes.</P>
 
