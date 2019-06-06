@@ -10,19 +10,25 @@ layout: default3
 
 .
 
+
 R: You're going to get 10 strokes on your calves.
    Count the strokes out loud after each strokes.
    Do you understand?
-   
+
+
 W: Yes, mistress.
-   
+
+
 R: Say thank you after each stroke and ask for the next one.
    Thank for it submissively.
-   
+
+
 W: Yes, ma'am.
+
 
 R: Otherwise you'll get extra punishment.
    And you hate punishment, don't you?
+
 
 .
 
@@ -32,7 +38,7 @@ R: Otherwise you'll get extra punishment.
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 
-</font><br />
+</font>
 
 <p style="text-align:left"><a href="./bdindex.html">back</a></p>
 
