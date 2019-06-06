@@ -8,37 +8,37 @@ layout: default3
 
 <font size="3">
 
-<P>R: Rose.<br/>W: Wheat.</P>
+<P>R: Rose.<br/>W: Wheat.<br/>Grape</P>
 
 <p>.</p>
 
-<p>R:<br/>You're going to get 10 strokes on your calves.<br/>Count the strokes out loud after each strokes.<br/>Do you understand?</p>
+<p>Rose:<br/>You're going to get 10 strokes on your calves.<br/>Count the strokes out loud after each strokes.<br/>Do you understand?</p>
 
-<P>W:<br/>Yes, mistress.</P>
+<P>Wheat:<br/>Yes, mistress.</P>
 
-<P>R:<br/>Say thank you after each stroke and ask for the next one.<br/>Thank for it submissively.</P>
+<P>Rose:<br/>Say thank you after each stroke and ask for the next one.<br/>Thank for it submissively.</P>
 
-<P>W:<br/>Yes, ma'am.</P>
+<P>Wheat:<br/>Yes, ma'am.</P>
 
-<P>R:<br/>Otherwise you'll get extra punishment.<br/>And you hate punishment, don't you?</P>
+<P>Rose:<br/>Otherwise you'll get extra punishment.<br/>And you hate punishment, don't you?</P>
 
-<P>R:<br/>Ready to go?<br/>What do you think of I'm waiting for, slave?</P>
+<P>Rose:<br/>Ready to go?<br/>What do you think of I'm waiting for, slave?</P>
 
-<P>W:<br/>Let me have the first stroke, please.</P>
+<P>Wheat:<br/>Let me have the first stroke, please.</P>
 
-<P>R:<br/>Did you hear anything?</P>
+<P>Rose:<br/>Did you hear anything?</P>
 
-<P>B:<br/>No, like a fly buzz.</P>
+<P>Grape:<br/>No, like a fly buzz.</P>
 
-<P>W:<br/>Let me have the first stroke!</P>
+<P>Wheat:<br/>Let me have the first stroke!</P>
 
 <P>"PE!"</P>
 
-<P>W:<br/>Thank you. Let me have the next one.</P>
+<P>Wheat:<br/>Thank you. Let me have the next one.</P>
 
-<P>R:<br/>How many was it?</P>
+<P>Rose:<br/>How many was it?</P>
 
-<P>B:<br/>Two.</P>
+<P>Wheat:<br/>Two.</P>
 
 <P>.</P>
 
