@@ -8,7 +8,7 @@ layout: default3
 
 <font size="3">
 
-<P>R: Rose.<br/>W: Wheat.<br/>Grape</P>
+<P>Master: Rose.<br/>Slave: Wheat.<br/>Viewer&Learner: Grape</P>
 
 <p>.</p>
 
