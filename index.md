@@ -5,7 +5,7 @@ layout: default
 
 欢迎～
 
-这儿圈名景尧，字[少微](./another-page.html)，号前前道人
+这儿圈名景尧，字[子仁](./another-page.html)，号前前道人
 
 主混古原，最近对黑帮，校园也颇感兴趣
 
