@@ -4,6 +4,9 @@ layout: default3
 
 ### 汉子打架（陆前）
 
+[image](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/hzdj.png)
+
+
 ```
 ========【九歌。倚剑】========
 【时间】武帝元年 六月
@@ -73,7 +76,6 @@ layout: default3
 
 
 
-[](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/hzdj.png)
 
 
 <p style="text-align:center"><a href="./dx-bllzy.html">prev</a></p>
