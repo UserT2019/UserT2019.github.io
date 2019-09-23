@@ -2,6 +2,9 @@
 layout: default3
 ---
 
+[image](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/cpzh.png)
+
+
 ### 瓷坯作画
 
 #### 学徒
@@ -44,7 +47,6 @@ layout: default3
 徐受器，道谢，朝师退步，后转入窑屋。
 
 
-[image](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/cpzh.png)
 
 
 <p style="text-align:center"><a href="./dx-sndj.html">prev</a></p>
