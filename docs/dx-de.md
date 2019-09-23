@@ -170,7 +170,7 @@ layout: default3
 
 
 ```
-在此与当事二人道歉，对不起。
+注：在此悄悄与当事二人道歉，对不起。
 ```
 
 <p style="text-align:center"><a href="./zx-cpzh.html">next</a></p>
