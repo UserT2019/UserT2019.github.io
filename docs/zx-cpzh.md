@@ -8,6 +8,14 @@ layout: default3
 
 [image](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/cpzh.png)
 
+```
+========【脑洞】========
+【时间】戊戌年 三月
+【人物】老工匠 学徒
+【地点】院中
+【剧情】老工匠教小工匠如何在瓷坯上作画
+============开始===========
+```
 
 #### 学徒
 “哎，师傅，我这就去取水。”
