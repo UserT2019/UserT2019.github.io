@@ -33,9 +33,9 @@ layout: default3
 语罢，待副将接过兵符，伸手招了个士兵，便朝门外走去。
 
 
-<p style="text-align:center"><a href="./dx-sndj.html">prev</a></p>
+<p style="text-align:center"><a href="./zx-ct.html">prev</a></p>
 
-<p style="text-align:center"><a href="./zx-ct.html">next</a></p>
+<p style="text-align:center"><a href="./pd.html">next</a></p>
 
 [back](./my-page.html)
 
