@@ -49,7 +49,19 @@ layout: default3
 
 ### 姬弘铭（姬府）
 
-![](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rsjhm.jpg)
+[image](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rsjhm.jpg)
+
+```
+【姓名】姬弘铭
+【身份】六少
+【性别】男
+【年龄】21
+【外貌】瘦削却不显羸弱的身子，着蓝丝绢锦衣，腰系云纹革带，挂镂空麒麟穗子绦玉佩。面部轮廓分明，五官立体，目似深潭，一头乌发着青丝系于身后。
+【性格】为人正直，偶有冒犯他人。然幸得坦诚，多交好友。
+【善恶】喜坦荡之人，恶捕风捉影之人
+【身世】自小便爱读圣贤书，既冠后，虽不若幼年博闻强识，却常思民生之众，社稷之本。清楚志向之后便愈加勤勉，后成功考取功名入朝为官。
+【备注】暂无
+```
 
 ### 景云（九歌）
 
@@ -68,7 +80,18 @@ layout: default3
 
 ### 陆前（九歌）
 
-![](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rslqjg.png)
+[image](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rslqjg.png)
+
+```
+【姓名】陆前
+【年龄】28
+【性别】男
+【门派】息风寨
+【性格】仗义豪爽，做事不拘一格
+【外貌】头裹青纹白龙凹面巾，身穿围虎绣金边绿罗袍，腰系一把雕珠刻龙黑金大刀
+【武器】刻龙黑金大刀
+【家世背景】幼年与双亲失散，被息风寨主带回寨中教养，被其视作养子，平日多与寨中兄弟称兄道弟
+```
 
 ### 景云（云烟阁）
 
@@ -87,8 +110,20 @@ layout: default3
 
 ### 上官景妤（子虚书院）
 
-![](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rssgjy.png)
+[image](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rssgjy.png)
 
+```
+【姓名】上官景妤
+【性别】女
+【年龄】12
+【身份】学生
+【性格】虽懂事明礼却也娇羞俏皮，眉眸间带着聪慧灵气，还有些孩童的可爱。
+【外貌】杏仁小脸，眸若清泉，唇如红釉。身着缠枝牡丹云纹对襟襦裙，肩披印花烟纱交织绫。青丝绾望仙九鬟髻，鬓插流苏玉石冠，手戴琉璃翠镯子，腰系穗子绦挂金丝荷包
+【背景】出身富贵人家，自幼跟随家中师长习琴画，读诗书。于金钗之年，生外出求学之意，又常闻子虚书院之名，得父亲首肯后正式前往
+【喜恶】喜金石书画
+【禁忌】忌过分控戏
+【备注】无
+```
 
 <p style="text-align:center"><a href="./pd.html">prev</a></p>
 
