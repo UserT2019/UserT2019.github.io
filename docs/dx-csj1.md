@@ -2,6 +2,8 @@
 layout: default3
 ---
 
+<font size="3">
+
 ### 纯实践（陆景尧）
 
 #### 陆景尧
