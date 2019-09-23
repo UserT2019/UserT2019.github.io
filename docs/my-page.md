@@ -4,9 +4,9 @@ layout: default3
 
 ## 对戏
 
-- [纯实践（陆景尧）](./dx-csj1.html)
+- [spc专栏](./second-page.html)
 
-  ——19/09/23
+  ——
 
 - [重逢（景云）](./dx-cf.html)
 （未结）
