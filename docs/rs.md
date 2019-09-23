@@ -2,6 +2,8 @@
 layout: default3
 ---
 
+
+
 ### 钟铭（天都镇）
 
 
@@ -51,7 +53,18 @@ layout: default3
 
 ### 景云（九歌）
 
-![](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rsjyjg.png)
+[image](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rsjyjg.png)
+
+```
+【姓名】景云
+【年龄】16
+【性别】男
+【门派】太玄府
+【职位】玄羽卫
+【性格】刚正不阿，光明磊落，好学。
+【武器】枪
+【家世背景】祖上曾为将，中道没落，到祖父一代，已是普通人家。然家中尚存几部兵法军书，故少时偶或习读，略懂一二。后恰逢太玄府招收士兵，应征入伍，于府中开始苦练枪法。
+```
 
 ### 陆前（九歌）
 
@@ -59,7 +72,18 @@ layout: default3
 
 ### 景云（云烟阁）
 
-![](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rsjyyyg.png)
+[image](https://raw.githubusercontent.com/UserT2019/UserT2019.github.io/master/assets/img/rsjyyyg.png)
+
+```
+姓名：景云
+性别：男
+年龄：十六
+性格：性子虽淡，然好交朋友，待人真诚。大体上明事理知进退，偶尔也会过于执拗。
+外貌：身着素色长衫，腰系墨色腰带。乌发被青丝带束于头顶，额前几缕青丝随风微微扬起。薄唇轻抿，眉宇间透着几分刚毅，几分冷清。
+身份：墨阁弟子
+背景：寒门出身，家境贫寒，父亲本望孩儿长成之后可分担家中生计。然自幼好学，常借他人之书相观，心中志已在远方，几番说教无果，父亲便随了我去。志学之年后，拜别双亲，外出求学问道。后遇贵人指点，入云烟阁拜师习书文。
+备注：暂无
+```
 
 ### 上官景妤（子虚书院）
 
