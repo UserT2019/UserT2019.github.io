@@ -8,6 +8,6 @@ layout: default3
 
 <p style="text-align:center"><a href="./dx-hzdj.html">prev</a></p>
 
-<p style="text-align:center"><a href="./zx-cpzh.html">next</a></p>
+<p style="text-align:center"><a href="./dx-de.html">next</a></p>
 
 [back](./my-page.html)
