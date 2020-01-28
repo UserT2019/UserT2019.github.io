@@ -88,7 +88,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“会。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;挪着过去，犹豫要不要脱了裤子，结果直接就趴到枕头上。在火锅的提醒下，尽管并不是第一次实践，却也仍然会害羞。脱了裤子，跪趴到放在床尾的皮质沙发上。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;挪着过去，犹豫要不要脱了裤子，结果直接就趴到枕头上。在火锅的提醒下，害羞地脱了裤子，跪趴到放在床尾的皮质沙发上。</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“腿分开。”</P>
 
@@ -102,7 +102,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;完蛋，感觉要不行了，直接趴在了床上，弱弱地看向后边的人。</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“我从来都没有看过像你这样没有规矩的被。”</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“我从来都没有看过像你这样没有规矩的。”</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“主是不会喜欢这样的被的。”</P>
 
@@ -130,7 +130,7 @@ layout: default3
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“休息下，然后继续。”</P>
 
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在挨打的时候，觉得每一下都异常艰难，挨打完却有种自己还能再来五十下的错觉。五十下后在听到继续却也会有点抗拒。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在挨打的时候，觉得每一下都异常艰难，挨打完却有种自己还能再来五十下的错觉。五十下后在听到继续却也会有点抗拒。起身看着脚下小声嘀咕，“其实我也不喜欢挨打。”</P>
 
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看着火锅去了浴室。</P>
 
